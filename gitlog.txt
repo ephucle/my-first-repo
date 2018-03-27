@@ -1,0 +1,41 @@
+commit d868b3ab9b57d26b75c4aded8c2753b4dc7c2cbd
+Author: ephucle <lephuchoang@gmail.com>
+Date:   Tue Mar 27 09:10:13 2018 +0700
+
+    create .gitignore file
+
+commit 6922a40f3f4f2e704ceb9c2f7555490f9f6facff
+Author: ephucle <lephuchoang@gmail.com>
+Date:   Tue Mar 27 09:06:32 2018 +0700
+
+    All
+
+commit 4c76046803eed91d1361894d55a2607983426241
+Author: ephucle <lephuchoang@gmail.com>
+Date:   Tue Mar 27 08:55:03 2018 +0700
+
+    add file3.txt only, no add file4.txt
+
+commit de65a3e42bbe98b2556fa368382bcc33749d6a96
+Author: ephucle <lephuchoang@gmail.com>
+Date:   Tue Mar 27 08:39:33 2018 +0700
+
+    add a new line to readme.txt
+
+commit db3f4cae7f5d870459823351dd3fe7b99a71bbd4
+Author: ephucle <lephuchoang@gmail.com>
+Date:   Tue Mar 27 08:33:58 2018 +0700
+
+    the undo the last status__added readme.txt
+
+commit 3284597f0cea219068ee670adb7f76fcb99c0a5f
+Author: ephucle <lephuchoang@gmail.com>
+Date:   Fri Mar 23 16:18:16 2018 +0700
+
+    added two files, modified readme
+
+commit 9b494b295660a04fd0b2cd4fd2b579bc41b77747
+Author: ephucle <lephuchoang@gmail.com>
+Date:   Fri Mar 23 16:14:53 2018 +0700
+
+    added readme.txt
